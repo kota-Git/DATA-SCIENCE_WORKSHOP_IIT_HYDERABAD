@@ -3,10 +3,10 @@ DATA SCIENCE RELATED NOTES  Python
 
 opps concepts
 
-numpy
+`numpy`
 
-pandas
+`pandas`
 
-EDA project
+`EDA project`
 
 
